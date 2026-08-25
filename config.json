@@ -1,0 +1,11 @@
+{
+    "language": "hu",
+    "rcon_ip": "127.0.0.1",
+    "rcon_port": "25575",
+    "rcon_pass": "12345678",
+    "ssh_host": "127.0.0.1",
+    "ssh_port": "22",
+    "ssh_user": "root",
+    "ssh_pass": "12345678",
+    "ini_path": "/home/steam/palsrv/Pal/Saved/Config/LinuxServer/PalWorldSettings.ini"
+}
